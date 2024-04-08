@@ -1,0 +1,18 @@
+{
+    "name": "sam-svg-logo-maker",
+    "version": "1.0.0",
+    "description": "Create a logo using SVG!",
+    "main": "index.js",
+    "scripts": {
+    "start": "jest"
+    },
+    "author": "Sam Bishop",
+    "license": "MIT",
+    "dependencies": {
+    "graceful-fs": "^4.2.11",
+    "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+    "jest": "^29.7.0"
+    }
+}
